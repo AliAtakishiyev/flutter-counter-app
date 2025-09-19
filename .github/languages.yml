@@ -1,0 +1,4 @@
+# Override language detection
+Dart:
+  color: "#00B4AB"
+  priority: 1
